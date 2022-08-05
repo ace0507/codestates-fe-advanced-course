@@ -41,8 +41,8 @@ https://www.figma.com/file/sqHCLIHFxWNiVYF2tTwaIj/Untitled?node-id=0%3A1
 
 
 # 추가 구현 사항에 대한 구현 방법과 설명
-- 페이지네이션: 
-- 모달창:
+- 페이지네이션: 1~10번 까지의 번호와 앞,뒤 아이콘을 합쳐 총 12개의 버튼을 map으로 돌렸고, 해당 index가 들어오면 그에 해당하는 페이지를 보여주었다.  
+- 모달창: useState를 사용하여 초기에는 "none"으로 설정해두고 onClick이 일어나면 setModalDisplay로 "block"으로 보여주었다. (이 곳에서는 정렬을 위해 block대신 "flex"사용) 
 
 
 
