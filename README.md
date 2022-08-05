@@ -2,10 +2,12 @@
 
 
 
-# 완성된 GIF 파일 및 배포링크
+# 완성된 배포링크
 https://ace0507.github.io/codestates-fe-advanced-course/
-![board](https://user-images.githubusercontent.com/82556064/183034476-b1b72e49-eb2f-4ac8-ac19-580fad27f508.gif)
 
+
+# 완성된 GIF
+![board](https://user-images.githubusercontent.com/82556064/183034476-b1b72e49-eb2f-4ac8-ac19-580fad27f508.gif)
 
 
 
