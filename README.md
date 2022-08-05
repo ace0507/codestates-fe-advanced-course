@@ -7,28 +7,41 @@ https://ace0507.github.io/codestates-fe-advanced-course/
 
 
 
-#프로젝트 실행 방법
-
+# 프로젝트 실행 방법
+cd client → npm install → npm start
 
  
-#사용한 스택 목록
+# 사용한 스택 목록
+- JavaScript
+- React
+- HTML
+- Styled-component
 
 
 # 구현한 기능 목록 (Software Requirement Specification)
+- 게시물 리스트
+- 게시물 상세 페이지
+- 댓글
+- 페이지네이션
+- 모달창
 
 
 # 구현 방법 혹은 구현하면서 어려웠던 점
-
+id로 잡고 10개씩 랜더링 하였기 때문에 (계산법) 계산 처리를 사용하여 간편하게 하였다.
 
 
 # Prototype
+https://www.figma.com/file/sqHCLIHFxWNiVYF2tTwaIj/Untitled?node-id=0%3A1
 
 
 # 성능 최적화에 대해서 고민하고 개선한 방법
+- 페이지네이션 에서 사용시 매번 데이터를 불러오게 되면 실행 속도 및 과도한 트래픽이 발생 할 수 있다. 그래서 화면 생성 초기 1번만 호출하여 랜더링한 후 display: none을 사용하여 처리하여다.
+- a태그 대신 Link 태그를 사용하여 브라우저의 주소만 바꿀 뿐 다시 렌더링 하지 않아서 빠르고 부드러운 화면 전환이 가능하다.
 
 
 # 추가 구현 사항에 대한 구현 방법과 설명
-
+- 페이지네이션: 
+- 모달창:
 
 
 
