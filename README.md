@@ -4,7 +4,7 @@
 
 # 완성된 GIF 파일 및 배포링크
 https://ace0507.github.io/codestates-fe-advanced-course/
-https://user-images.githubusercontent.com/82556064/182982708-8da6e796-58e1-427b-b529-79b14252b02b.mov
+
 
 
 
